@@ -20,3 +20,12 @@ Git Repository fuer die Fallstudie
 build success : alex 
 
 -----------
+
+eclipse clone
+
+-----------
+
+eclipse ubuntu probleme, via das normale Ubuntu software download manager wird 
+nicht das neuste Eclipse runtergeladen. Das neuste Eclipse hat aber viel
+einfachere plugin-management um m2e und eGit zu installieren. Ich empfehle
+Eclipse Indigo direkt von 
